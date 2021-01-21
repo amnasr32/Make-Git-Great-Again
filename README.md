@@ -1,14 +1,3 @@
-# How git work
-Pour ce qui aurais encore des difficultées avec l'usage de git j'ai fait un petit mémo :
-
-Assuré vous d'avoir git d'installé sur votre machine
-D'abord il faut avoir charger toutes les informations dans le fichier courant avec *git init*
-En suite il faut être a jour avec le projet sur le site. *git pull* permet de récupérer des fichiers et des modifications qu'on aurait pas forcément.
-Ensuite on peu afficher l'état des choses avec *git status*. Les modifications faisable sont indiqué grace a cette commande et même en français !
-Pour envoyer qqhose on doit l'enregister comme modification avec *git rm nomDuDocierOuFIchier* ou *git add nomDuDocierOuFIchier*.
-pour soumettre la modification on fait *git commit*. A ce stade on peu écire quelques lignes pour décrire nos modifications.
-et une fois que toutes les modifs sont faite on envoie a la version en ligne avec *git push*. (Tant qu'on a pas fait *git push* rien n'est modifié en ligne.)
-
 
 # Make Git great again
 
@@ -16,7 +5,7 @@ et une fois que toutes les modifs sont faite on envoie a la version en ligne ave
 
 ## Presentation
 
-Make Git great again a tool for analyzing contributions from the members of a team working a a same given project hosted on a git repository. Its goal is to assist teachers for individual grading of students working as a team.
+Make Git great again a tool for analyzing contributions from the members of a team working a a same given project hosted on a git repository. Its goal is to assist teachers for individual grading of students working as a team.It was  realised in group of 7 as part of University of Paris  project for students of the secnd year of Computer Science Licencce between september and december 2020
 
 
 - compute a couple of relevant indicators such as:
