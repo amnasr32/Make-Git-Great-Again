@@ -28,7 +28,7 @@ Make Git great again a tool for analyzing contributions from the members of a te
 
 Visulog contains the following modules:
 
-*Analyzer*:
+*Analyzer*: 
 contains functions that return results which can be transformed into HTML.
 *CLI*:
  it an executable software which will call the other modules.
